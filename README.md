@@ -5,6 +5,10 @@ This repository demonstrates how to use **Ansible** with **AWS Systems Manager (
 
 ---
 
+
+## Youtube: https://www.youtube.com/watch?v=i8ZBZ9Z11w8
+
+
 ## References
 
 - [Ansible AWS SSM Connection Plugin](https://docs.ansible.com/ansible/latest/collections/amazon/aws/aws_ssm_connection.html#ansible-collections-amazon-aws-aws-ssm-connection)  
